@@ -1,1 +1,74 @@
-
+[
+  {
+    "nome": "Batizado",
+    "slug": "batizado",
+    "descricao": "Decoração delicada para celebrar um momento especial.",
+    "imagem": "pic01.jpg"
+  },
+  {
+    "nome": "Frozen",
+    "slug": "frozen",
+    "descricao": "Um reino de gelo cheio de encanto e magia.",
+    "imagem": "pic02.jpg"
+  },
+  {
+    "nome": "Mickey",
+    "slug": "mickey",
+    "descricao": "Clássicos e divertidos para festas cheias de alegria.",
+    "imagem": "pic03.jpg"
+  },
+  {
+    "nome": "Minnie",
+    "slug": "minnie",
+    "descricao": "Detalhes charmosos para uma festa cor-de-rosa.",
+    "imagem": "pic04.jpg"
+  },
+  {
+    "nome": "Chá de Panela",
+    "slug": "cha-de-panela",
+    "descricao": "Ideias acolhedoras para comemorar uma nova fase.",
+    "imagem": "pic05.jpg"
+  },
+  {
+    "nome": "Chá de Bebê",
+    "slug": "cha-de-bebe",
+    "descricao": "Temas delicados para celebrar a chegada do bebê.",
+    "imagem": "pic06.jpg"
+  },
+  {
+    "nome": "Princesas",
+    "slug": "princesas",
+    "descricao": "Um toque de fantasia para uma festa de conto de fadas.",
+    "imagem": "pic07.jpg"
+  },
+  {
+    "nome": "Safari",
+    "slug": "safari",
+    "descricao": "Aventura e natureza para os pequenos exploradores.",
+    "imagem": "pic08.jpg"
+  },
+  {
+    "nome": "Fazendinha",
+    "slug": "fazendinha",
+    "descricao": "Uma festa divertida com clima de campo.",
+    "imagem": "pic09.jpg"
+  },
+  {
+    "nome": "Jardim Encantado",
+    "slug": "jardim-encantado",
+    "descricao": "Flores, borboletas e muita delicadeza.",
+    "imagem": "pic10.jpg"
+  },
+  {
+    "nome": "Homem-Aranha",
+    "slug": "homem-aranha",
+    "descricao": "Uma decoração cheia de ação e aventura.",
+    "imagem": "pic11.jpg"
+  },
+  {
+    "nome": "Unicórnio",
+    "slug": "unicornio",
+    "descricao": "Cores e fantasia para uma comemoração encantadora.",
+    "imagem": "pic12.jpg"
+  }
+]
